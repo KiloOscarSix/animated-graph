@@ -1,0 +1,10 @@
+[package]
+name = "animated-graph"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+csv = "1.3.1"
+ggez = "0.9.3"
+image = "0.25.5"
+plotters = "0.3.7"
